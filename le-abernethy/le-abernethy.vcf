@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lori Abernethy
+N:Abernethy ;Lori;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:labernethy@philasd.org
+TEL;TYPE=WORK:215.400.3130
+TEL;TYPE=CELL:215.317.5884
+ADR;TYPE=WORK:;9125 Academy Road;Thomas Holme Elementary School;Philadelphi
+ a;PA;19114-2859;US;Thomas Holme Elementary School\n9125 Academy Road\, Phi
+ ladelphia\, PA 19114-2859\nUS
+ADR;TYPE=WORK:;3001 Ryan Ave;Austin Meehan Middle School;Philadelphia;PA;19
+ 152-4533;US;Austin Meehan Middle School\n3001 Ryan Ave\, Philadelphia\, PA
+  19152-4533\nUS
+item1.ORG:School District of Philadelphia
+item1.X-ABLabel:
+item2.TITLE:Digital Literacy Teacher
+item2.X-ABLabel:
+item3.URL:http\://www.philasd.org
+item3.X-ABLabel:
+CATEGORIES:Work,myContacts
+END:VCARD
