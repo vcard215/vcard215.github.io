@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Les Abernethy
+N:Abernethy;Les;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:labernethy@foleyinc.com
+TEL;TYPE=WORK:215.245.2883
+TEL;TYPE=CELL:215.852.9880
+item1.ADR:;;2975 Galloway Rd;Bensalem;PA;19020;US;2975 Galloway Rd\nBensale
+ m\, PA 19020\nUS
+item1.X-ABLabel:
+item2.ORG:Foley Incorporated
+item2.X-ABLabel:
+item3.TITLE:Power Systems Operations Manager
+item3.X-ABLabel:
+URL;TYPE=WORK:https\://www.foleyinc.com/power/rental-equipment/
+NOTE:Rental of Power generation\, Temperature Control\, and Compressed Air.
+  Sales of used equipment.
+PHOTO:https://lh3.googleusercontent.com/contacts/ADUEL1yeAR99p_mB1W5zOPWKj5
+ qOzGmSKRMhG5pjcfh9RWeiWyH_6vIN
+CATEGORIES:Work,myContacts
+END:VCARD
