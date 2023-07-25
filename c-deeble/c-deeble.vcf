@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Charles Deeble
+N:Deeble;Charles;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:cdeeble@foleyinc.com
+TEL;TYPE=CELL:732.261.5365
+ADR;TYPE=WORK:;;2975 Galloway Rd;Bensalem;PA;19020;US;2975 Galloway Rd\nBen
+ salem\, PA 19020\nUS
+item1.ORG:Foley Incorporated;Power Systems
+item1.X-ABLabel:
+item2.TITLE:Used Equipment Manager
+item2.X-ABLabel:
+item3.URL:www.foleyinc.com
+item3.X-ABLabel:
+CATEGORIES:Work,myContacts
+END:VCARD

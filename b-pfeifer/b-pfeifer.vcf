@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Brian Pfeifer
+N:Pfeifer;Brian;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:bpfeifer@foleyinc.com
+TEL;TYPE=CELL:267.294.7337
+ADR;TYPE=WORK:;;2975 Galloway Road;Bensalem;PA;19020;US;2975 Galloway Road
+ \nBensalem\, PA 19020\nUS
+item1.ORG:Foley Incorporated;Power Systems
+item1.X-ABLabel:
+item2.TITLE:Rental Sales
+item2.X-ABLabel:
+URL;TYPE=WORK:www.foleyinc.com
+NOTE:Caterpillar Certified Sales Professional
+CATEGORIES:Work,myContacts
+END:VCARD

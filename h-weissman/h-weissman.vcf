@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hilary Weissman
+N:Weissman;Hilary;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:hweissman@foleyinc.com
+TEL;TYPE=WORK:215.639.4300
+TEL;TYPE=CELL:215.356.8911
+item1.ADR:;;2975 Galloway Rd;Bensalem;PA;19020;US;2975 Galloway Rd\nBensale
+ m\, PA 19020\nUS
+item1.X-ABLabel:
+item2.ORG:Foley Incorporated;Power Systems
+item2.X-ABLabel:
+item3.TITLE:Rental Representative
+item3.X-ABLabel:
+URL;TYPE=WORK:www.foleyinc.com
+CATEGORIES:Work,myContacts
+END:VCARD
