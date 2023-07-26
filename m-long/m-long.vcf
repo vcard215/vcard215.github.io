@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mike Long
+N:Long;Mike;;;
+item1.EMAIL;TYPE=INTERNET:mlong@foleyinc.com
+item1.X-ABLabel:
+TEL;TYPE=WORK:215.245.3727
+TEL;TYPE=CELL:215.896.2888
+ADR;TYPE=WORK:;;2975 Galloway Rd;Bensalem;PA;19020;US;2975 Galloway Rd\nBen
+ salem\, PA 19020\nUS
+item2.ORG:Foley Incorporated;Power Systems
+item2.X-ABLabel:
+item3.TITLE:Rental Sales administrator
+item3.X-ABLabel:
+URL;TYPE=WORK:www.foleyinc.com/power/rental-equipment
+CATEGORIES:Work,myContacts
+END:VCARD

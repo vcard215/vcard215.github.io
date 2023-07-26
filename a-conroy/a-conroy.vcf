@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Allison Conroy
+N:Conroy;Allison;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:aconroy@foleyinc.com
+TEL;TYPE=WORK:732.885.3113
+TEL;TYPE=CELL:732.215.6145
+ADR;TYPE=WORK:;;855 Centennial Ave;Piscataway;NJ;08854;US;855 Centennial Av
+ e\nPiscataway\, NJ 08854\nUS
+item1.ORG:Foley Incorporated;Power Systems
+item1.X-ABLabel:
+item2.TITLE:Rental Sales Administrator
+item2.X-ABLabel:
+URL;TYPE=WORK:https\://www.foleyinc.com/power/rental-equipment
+CATEGORIES:Work,myContacts
+END:VCARD
